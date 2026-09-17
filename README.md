@@ -16,7 +16,7 @@ This portfolio follows one gene, **TP53** (the most frequently mutated gene in h
 
 ## Skills
 
-- **Programming**
+- **Programming:** VS Code, R, Quarto
 - **Bioinformatics** 
 - **Statistics** 
 - **Reproducibility:** GitHub
