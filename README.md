@@ -2,4 +2,5 @@
 
 Biochemist and MSc Bioinformatics & Biostatistics student.
 
+🔬 Building a portfolio of reproducible bioinformatics projects.
 🚧 Portfolio under construction.
